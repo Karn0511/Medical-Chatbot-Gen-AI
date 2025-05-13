@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "Generative_AI_Project.egg-info"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
